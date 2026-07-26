@@ -16,3 +16,8 @@ def say_hello():
 say_hello()
 
 
+#-------X---------X---------X----------X---------X--------X---------X--------X----
+#output
+'''Something is happening BEFORE the function is called.
+Hello, World!
+Something is happening AFTER the function is called.'''
