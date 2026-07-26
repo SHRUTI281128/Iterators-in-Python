@@ -9,3 +9,8 @@ print(next(my_iterator))  # Outputs: apple
 print(next(my_iterator))  # Outputs: banana
 print(next(my_iterator))  # Outputs: cherry
 
+#------x-------x-------x-------x-------x--------
+#OUTPUT 
+'''apple
+banana
+cherry'''
